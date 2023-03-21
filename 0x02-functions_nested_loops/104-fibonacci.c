@@ -12,7 +12,7 @@ int main(void)
 	unsigned long fib1 = 0;
 	unsigned long fib2 = 1;
 	unsigned long sum;
-	unsigned long fib1_half1, fib2_half2;
+	unsigned long fib1_half1, fib1_half2;
 	unsigned long fib2_half1, fib2_half2;
 	unsigned long half1;
 	unsigned long half2;
