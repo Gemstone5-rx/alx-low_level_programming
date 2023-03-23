@@ -1,6 +1,6 @@
 # This project consists of tasks such as;
 
-* write a funstion that;
+* write a function that;
 - [x] checks for uppercase character
 - [x] checks for a digit (0 through 9)
 - [x] multiplies two integers
